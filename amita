@@ -1,0 +1,7 @@
+cd CODSOFT
+# Add files
+git add .
+# Commit changes
+git commit -m "Initial commit"
+# Push to the remote repository
+git push origin maste
